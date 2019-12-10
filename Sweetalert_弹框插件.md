@@ -11,7 +11,7 @@
 ```
 swal("系统提示","请输入账号!","warning");
 ```
-![](https://s2.ax1x.com/2019/12/10/QDWIuq.png)
+![图片不见了](https://s2.ax1x.com/2019/12/10/QDWIuq.png)
 
 ## 确认提示使用方法
 ```javascript
@@ -39,5 +39,5 @@ swal("系统提示","请输入账号!","warning");
 	    	}
 	    })
 ```
-![](https://s2.ax1x.com/2019/12/10/QDfHsI.png)
-![](https://s2.ax1x.com/2019/12/10/QDh2lj.png)
+![图片不见了](https://s2.ax1x.com/2019/12/10/QDfHsI.png)
+![图片不见了](https://s2.ax1x.com/2019/12/10/QDh2lj.png)
